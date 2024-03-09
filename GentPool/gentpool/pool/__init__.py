@@ -9,3 +9,8 @@ from .vanilla_template import *
 from .openai_memory_template import *
 from .vanilla-ziyu import *
 from .scholar-ziyu import *
+from .shiva import *
+from .shivaone import *
+from .shivatwo import *
+from .shivathree import *
+from .shivafour import *

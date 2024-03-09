@@ -1,0 +1,61 @@
+INFO:root:Creating Config from file: ./gentpool/pool/shivathree/agent.yaml
+INFO:root:Starting to load configuration from ./gentpool/pool/shivathree/agent.yaml
+INFO:root:Successfully loaded configuration from ./gentpool/pool/shivathree/agent.yaml
+INFO:root:--------------------
+INFO:root:[green]Welcome to Gentopia!
+INFO:root:--------------------
+INFO:root:[green]User: 
+INFO:root:shivathree is thinking...
+INFO:root:Done
+INFO:root:[blue]shivathree: 
+INFO:root:Sure, what would you like to search for?
+INFO:root:Done
+INFO:root:[green]User: 
+INFO:root:shivathree is thinking...
+INFO:root:Done
+INFO:root:[blue]shivathree: 
+INFO:root:{"name":"google_search", "arguments":{
+  "query": "shiva"
+}}
+
+INFO:root:Calling function: google_search ...
+INFO:root:Done
+INFO:root:--------------------
+INFO:root:SearchResult(url=https://en.wikipedia.org/wiki/Shiva, title=Shiva - Wikipedia, description=Shiva · Śiva [ɕɪʋɐ]), also known as Mahadeva (/məˈhɑː ˈdeɪvə/; Sanskrit: महादेव:, lit. 'The Great God', IAST: · Mahādevaḥ, [mɐɦaːd̪eːʋɐh) is one of the ...)
+
+SearchResult(url=https://en.wikipedia.org/wiki/Shiva, title=Shiva - Wikipedia, description=Shiva · Śiva [ɕɪʋɐ]), also known as Mahadeva (/məˈhɑː ˈdeɪvə/; Sanskrit: महादेव:, lit. 'The Great God', IAST: · Mahādevaḥ, [mɐɦaːd̪eːʋɐh) is one of the ...)
+
+SearchResult(url=https://www.shiva.com/, title=shiva.com | Learn about Jewish mourning, shiva traditions ..., description=Learning Center. Explore the traditions of shiva and Jewish mourning. Learn about visiting a shiva home, sitting shiva and what to bring or send.)
+
+SearchResult(url=https://www.thebuddhagarden.com/shiva-hindu-god-destruction.html, title=Shiva: Hindu God of Destruction, description=Shiva is one of the most widely known and revered Hindu gods. Shiva is often worshipped as one member of the Holy Trinity of Hinduism, with the gods Brahma ...)
+
+SearchResult(url=https://www.shiva.com/learning-center/understanding/shiva, title=What is Shiva | Shiva, Jewish Mourning, description=The word "shiva" has different meanings across different cultures and in Hebrew it means "seven." Shiva, as it relates to Jewish mourning, is the seven-day ...)
+
+SearchResult(url=https://www.instagram.com/fuckshiva/?hl=en, title=SHIVA (@fuckshiva) • Instagram photos and videos, description=2M Followers, 707 Following, 64 Posts - See Instagram photos and videos from SHIVA (@fuckshiva))
+
+SearchResult(url=https://www.shiva.com/, title=shiva.com | Learn about Jewish mourning, shiva traditions ..., description=Learning Center. Explore the traditions of shiva and Jewish mourning. Learn about visiting a shiva home, sitting shiva and what to bring or send.)
+
+SearchResult(url=https://www.shiva.com/learning-center/understanding/shiva, title=What is Shiva | Shiva, Jewish Mourning, description=The word "shiva" has different meanings across different cultures and in Hebrew it means "seven." Shiva, as it relates to Jewish mourning, is the seven-day ...)
+
+SearchResult(url=https://www.shiva.com/learning-center/understanding/shiva, title=What is Shiva | Shiva, Jewish Mourning, description=The word "shiva" has different meanings across different cultures and in Hebrew it means "seven." Shiva, as it relates to Jewish mourning, is the seven-day ...)
+
+SearchResult(url=https://www.instagram.com/fuckshiva/?hl=en, title=SHIVA (@fuckshiva) • Instagram photos and videos, description=2M Followers, 707 Following, 64 Posts - See Instagram photos and videos from SHIVA (@fuckshiva))
+INFO:root:--------------------
+INFO:root:shivathree is thinking...
+INFO:root:Done
+INFO:root:[blue]shivathree: 
+INFO:root:Here are some search results for "Shiva":
+
+1. [Shiva - Wikipedia](https://en.wikipedia.org/wiki/Shiva): Shiva, also known as Mahadeva, is one of the principal deities of Hinduism. He is the Supreme Being in Shaivism, one of the major traditions within Hinduism.
+
+2. [shiva.com | Learn about Jewish mourning, shiva traditions ...](https://www.shiva.com/): This site provides information about the traditions of shiva and Jewish mourning. It includes details about visiting a shiva home, sitting shiva, and what to bring or send.
+
+3. [Shiva: Hindu God of Destruction](https://www.thebuddhagarden.com/shiva-hindu-god-destruction.html): Shiva is one of the most widely known and revered Hindu gods. Shiva is often worshipped as one member of the Holy Trinity of Hinduism, with the gods Brahma and Vishnu.
+
+4. [What is Shiva | Shiva, Jewish Mourning](https://www.shiva.com/learning-center/understanding/shiva): The word "shiva" has different meanings across different cultures and in Hebrew it means "seven." Shiva, as it relates to Jewish mourning, is the seven-day mourning period in Judaism for first-degree relatives.
+
+5. [SHIVA (@fuckshiva) • Instagram photos and videos](https://www.instagram.com/fuckshiva/): This is an Instagram profile named SHIVA with 2M followers.
+
+Please note that "Shiva" can refer to different entities depending on the context, such as a deity in Hinduism or a period of mourning in Judaism.
+INFO:root:Done
+INFO:root:[green]User: 

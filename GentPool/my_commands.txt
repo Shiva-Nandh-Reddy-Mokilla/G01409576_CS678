@@ -1,0 +1,32 @@
+ 1079  openai: error: argument {api,tools,wandb}: invalid choice: 'migrate' (choose from 'api', 'tools', 'wandb')
+ 1080  python assemble.py shivaone\n
+ 1081  ./clone_agent scholar shivaone
+ 1082  ./clone_agent scholar shivatwo
+ 1083  python assemble.py shivatwo
+ 1084  cd /path/to/gentpool/pool/shivatwo/
+ 1085  cd /path/to/gentpool/pool/shivatwo
+ 1086  cd /Users/shivanandh/GentPool/gentpool/pool/shivatwo\n\n
+ 1087  touch google_search.py
+ 1088  touch pdf_reader.py
+ 1089  vim google_search.py
+ 1090  vim pdf_reader.py
+ 1091  python assemble.py shivatwo
+ 1092  python assemble.py shivatwo
+ 1093  python assemble.py shivatwo
+ 1094  script my_session.log\n
+ 1080  python assemble.py shivaone\n
+ 1081  ./clone_agent scholar shivaone
+ 1082  ./clone_agent scholar shivatwo
+ 1083  python assemble.py shivatwo
+ 1084  cd /path/to/gentpool/pool/shivatwo/
+ 1085  cd /path/to/gentpool/pool/shivatwo
+ 1086  cd /Users/shivanandh/GentPool/gentpool/pool/shivatwo\n\n
+ 1087  touch google_search.py
+ 1088  touch pdf_reader.py
+ 1089  vim google_search.py
+ 1090  vim pdf_reader.py
+ 1091  python assemble.py shivatwo
+ 1092  python assemble.py shivatwo
+ 1093  python assemble.py shivatwo
+ 1094  script my_session.log\n
+ 1095  history > my_commands.txt\n
